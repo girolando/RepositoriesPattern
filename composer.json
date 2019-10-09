@@ -25,12 +25,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Girolando\\Repositories\\": "src/"
+      "Andersonef\\Repositories\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Girolando\\Tests\\Repositories\\": "tests/"
+      "Andersonef\\Tests\\Repositories\\": "tests/"
     }
   },
   "extra": {
