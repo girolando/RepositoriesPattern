@@ -1,5 +1,5 @@
 {
-  "name": "andersonef/repositories-pattern",
+  "name": "girolando/repositories-pattern",
   "description": "Laravel Repositories Pattern Implementation",
   "keywords": [
     "laravel",
@@ -25,12 +25,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Andersonef\\Repositories\\": "src/"
+      "Girolando\\Repositories\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Andersonef\\Tests\\Repositories\\": "tests/"
+      "Girolando\\Tests\\Repositories\\": "tests/"
     }
   },
   "extra": {
